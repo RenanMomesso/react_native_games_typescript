@@ -1,3 +1,3 @@
-    const v;
+const v;
 let x;
-const ola = g
+const ola = g;
