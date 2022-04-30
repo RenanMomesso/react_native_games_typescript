@@ -4,13 +4,8 @@ module.exports = {
         es2021: true
     },
     extends: [
-        "eslint:recommended",
-        "plugin:react/recommended",
         "plugin:@typescript-eslint/recommended",
-        "plugin:react/jsx-runtime",
         "prettier",
-        "prettier/@typescript-eslint",
-        "prettier/react"
     ],
     parser: "@typescript-eslint/parser",
     parserOptions: {
