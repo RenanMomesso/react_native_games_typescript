@@ -1,2 +1,3 @@
-const v
-     let x
+    const v;
+let x;
+const ola = g
